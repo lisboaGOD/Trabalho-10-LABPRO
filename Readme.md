@@ -16,7 +16,7 @@ Você pode acessar o site pelo link : [https://github.com/lisboaGOD/Trabalho-10-
 - c pure
 
 ## ⬇️ Download
--You must download the files "codesabe.c", "ordvetor.h", "code.c" placing them in the same folder. To run code you must run the file "code.c" is executable with gcc 6.0    or higher.
+-You must download the file Code.c. To run code you must run the file "Code.c" is executable with gcc 6.0 or higher.
 
 ## 💛 Contact
 
